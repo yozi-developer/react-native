@@ -40,7 +40,7 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
+# /android/ # YOZI
 
 # Node
 node_modules
